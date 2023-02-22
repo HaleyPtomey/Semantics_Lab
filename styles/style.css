@@ -1,0 +1,20 @@
+body{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    font-family: 'Roboto', sans-serif;
+}
+header{
+    background-color: lightgray ;
+   
+}
+footer{
+    text-align: center;
+    display: block;
+    background-color: lightgrey;
+
+}
+h3{
+    text-align: center;
+}
